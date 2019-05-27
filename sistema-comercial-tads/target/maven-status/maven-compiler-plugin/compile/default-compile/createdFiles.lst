@@ -1,0 +1,4 @@
+br/edu/ifg/sistemacomercial/entity/Categoria.class
+br/edu/ifg/sistemacomercial/entity/UsuarioHasPermissao.class
+br/edu/ifg/sistemacomercial/entity/MovimentoEstoque.class
+br/edu/ifg/sistemacomercial/entity/Endereco.class
