@@ -1,2 +1,1 @@
-# ppw2
-Atividade 2
+# Projeto de um Sistema Comercial desenvolvido na disciplina PPW2.
